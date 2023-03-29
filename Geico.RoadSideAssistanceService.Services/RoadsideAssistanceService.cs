@@ -30,6 +30,7 @@ namespace Geico.RoadSideAssistanceService.Services
 
         public void AddAssistant(Assistant assistant)
         {
+            assistant.IsAvailable = true;
             this.assistants.Add(assistant);
         }
 
