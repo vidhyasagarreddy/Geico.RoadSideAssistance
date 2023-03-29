@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geico.RoadSideAssistanceService.API", "Geico.RoadSideAssistance.API\Geico.RoadSideAssistanceService.API.csproj", "{118AAE3C-921A-412E-8844-6B07839FE654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geico.RoadSideAssistanceService.Models", "Geico.RoadSideAssistanceService.Models\Geico.RoadSideAssistanceService.Models.csproj", "{3C146EDB-F3F7-40A1-94C3-936D98CCAB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geico.RoadSideAssistanceService.Contracts", "Geico.RoadSideAssistanceService.Contracts\Geico.RoadSideAssistanceService.Contracts.csproj", "{156D3F29-2C8E-47C8-9C44-E25AD7DE640E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geico.RoadSideAssistanceService.Services", "Geico.RoadSideAssistanceService.Services\Geico.RoadSideAssistanceService.Services.csproj", "{8A915A66-F429-444E-BF69-7D89292D487F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118AAE3C-921A-412E-8844-6B07839FE654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118AAE3C-921A-412E-8844-6B07839FE654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118AAE3C-921A-412E-8844-6B07839FE654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118AAE3C-921A-412E-8844-6B07839FE654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C146EDB-F3F7-40A1-94C3-936D98CCAB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C146EDB-F3F7-40A1-94C3-936D98CCAB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C146EDB-F3F7-40A1-94C3-936D98CCAB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C146EDB-F3F7-40A1-94C3-936D98CCAB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156D3F29-2C8E-47C8-9C44-E25AD7DE640E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156D3F29-2C8E-47C8-9C44-E25AD7DE640E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156D3F29-2C8E-47C8-9C44-E25AD7DE640E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156D3F29-2C8E-47C8-9C44-E25AD7DE640E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A915A66-F429-444E-BF69-7D89292D487F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A915A66-F429-444E-BF69-7D89292D487F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A915A66-F429-444E-BF69-7D89292D487F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A915A66-F429-444E-BF69-7D89292D487F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5494D1DA-D9BD-4FEB-B9BC-BB5A98013087}
+	EndGlobalSection
+EndGlobal
